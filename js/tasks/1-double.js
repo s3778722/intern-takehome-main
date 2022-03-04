@@ -6,5 +6,6 @@
  * @returns {Number} The input doubled
  */
 export default function doubleInteger(i) {
-    
+    //Simply return i multiply by 2
+    return i * 2
 }
